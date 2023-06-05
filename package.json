@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "description": "Submit Me",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "DCI",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DigitalCareerInstitute/Browser-fetch-post",
+    "id": 210278557
+  }
+}
